@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omsenjalia&label=Profile%20views&color=0e75b6&style=flat" alt="omsenjalia" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=omsenjalia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophy.ryglcloud.net/?username=omsenjalia&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [is-a.dev](https://github.com/is-a-dev)
 
