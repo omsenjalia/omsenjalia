@@ -1,42 +1,50 @@
-[![MasterHead](https://media.discordapp.net/attachments/949604552779390976/1006559428142715022/Picsart_22-08-09_19-17-28-550.jpg)](https://om.is-a.dev)
-<h1 align="center">Hi 👋, I'm Om Senjalia</h1>
-<h3 align="center">I am a youtuber that plays Brawl Stars, Likes to code, and is going into medical field.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omsenjalia&label=Profile%20views&color=0e75b6&style=flat" alt="omsenjalia" /> </p>
+# Om Senjalia
 
-[![trophy](https://trophy.ryglcloud.net/?username=omsenjalia&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+**Aspiring Software Engineer · Open Source · Linux**
 
-- 🔭 I’m currently working on [is-a.dev](https://github.com/is-a-dev)
+[![Website](https://img.shields.io/badge/Website-krsn.us.to-red?style=flat-square&logo=google-chrome)](https://krsn.us.to)
+[![GitHub](https://img.shields.io/badge/GitHub-omsenjalia-181717?style=flat-square&logo=github)](https://github.com/omsenjalia)
 
-- 🌱 I’m currently learning **NixOS**
+</div>
 
-- 👯 I’m looking to collaborate on [is-a.dev](https://github.com/is-a-dev/)
+---
 
-- 🤝 I’m looking for help with [My portfolio](https://github.com/omsenjalia/portfolio-cf)
+### 👨‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/omsenjalia/)
+- 🔧 Previous Maintainer at **[is-a.dev](https://github.com/is-a-dev)** — free subdomain service used by thousands of devs worldwide
+- 🐧 Daily driving **Linux + Windows**, currently exploring **NixOS**
+- 🐳 Building with **Docker**, **CI/CD**, and self-hosted infra
+- 💬 Ask me about **DNS, open source, or Linux**
+- 📫 **info@krsn.us.to**
 
-- 📝 I regularly write articles on [https://blog.om.is-a.dev](https://blog.om.is-a.dev)
+---
 
-- 💬 Ask me about **Discord Related things**
+### 🛠️ Tech Stack
 
-- 📫 How to reach me **contact me at github@om.is-a.dev**
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-- 📄 Know about my experiences [None currently](None currently)
+---
 
-- ⚡ Fun fact **My age is 16**
+### 📊 GitHub Stats
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/osenjalia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Om Senjalia" height="30" width="40" /></a>
-<a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="terraplayz" height="30" width="40" /></a>
+[![trophy](https://trophy.ryglcloud.net/?username=omsenjalia&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omsenjalia&theme=tokyonight&hide_border=true"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omsenjalia&theme=tokyo-night&hide_border=true)](https://github.com/omsenjalia)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omsenjalia&show_icons=true&theme=ocean_dark&locale=en&layout=compact" alt="om senjalia" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omsenjalia&theme=great-gatsby&show_icons=true&locale=en" alt="om senjalia" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omsenjalia&" alt="om senjalia" /></p>
