@@ -26,7 +26,9 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/omsenjalia/omsenjalia/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/omsenjalia/omsenjalia/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
+
 ---
+
 
 ### 🛠️ Tech Stack
 
@@ -44,19 +46,28 @@
 
 ---
 
+
 ### 📊 GitHub Stats
 
-[![trophy](https://trophy.ryglcloud.net/?username=omsenjalia&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<p align="left">
-  <a href="profile">
-    <img src="./profile/stats.svg" />
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://trophy.ryglcloud.net/?username=omsenjalia&theme=tokyonight&no-frame=true&row=2&column=5"
+      alt="GitHub Trophies"
+    />
   </a>
 </p>
 
-<p align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omsenjalia&theme=tokyonight&hide_border=true"/>
+
+<p align="center">
+  <img
+    src="./profile/stats.svg"
+    alt="GitHub Stats"
+    width="49%"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=omsenjalia&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    width="49%"
+  />
 </p>
-
-
