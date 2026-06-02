@@ -13,9 +13,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔧 Previous Maintainer at **[is-a.dev](https://github.com/is-a-dev)** — free subdomain service used by thousands of devs worldwide
+- 🔧 Maintainer at **[is-a.dev](https://github.com/is-a-dev)** — free subdomain service used by thousands of devs worldwide
 - 🐧 Daily driving **Linux + Windows**, currently exploring **NixOS**
 - 🐳 Building with **Docker**, **CI/CD**, and self-hosted infra
+- 💻 Learning **C** Lang online
 - 💬 Ask me about **DNS, open source, or Linux**
 - 📫 **info@krsn.us.to**
 
