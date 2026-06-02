@@ -49,7 +49,13 @@
 [![trophy](https://trophy.ryglcloud.net/?username=omsenjalia&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<p align="center">
+<p align="left">
+  <a href="profile">
+    <img src="./profile/stats.svg" />
+  </a>
+</p>
+
+<p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omsenjalia&theme=tokyonight&hide_border=true"/>
 </p>
 
