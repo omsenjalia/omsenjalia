@@ -20,21 +20,27 @@
 - 💬 Ask me about **DNS, open source, or Linux**
 - 📫 **info@krsn.us.to**
 
+
+<div align="center">
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/omsenjalia/omsenjalia/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/omsenjalia/omsenjalia/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+</div>
 ---
 
 ### 🛠️ Tech Stack
 
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bash,arch,debian,docker,py,js,css,html,nginx,gcp,java,linux,npm,windows" />
+  </a>
+</p>
+<p align="center">
+  <a href="plus more">
+    <img width="65" height="65" src="https://github.com/user-attachments/assets/79e75783-e8ac-4f79-8a8a-0b9d34795975" />
+  </a>
+</p>
+
 
 ---
 
@@ -47,5 +53,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omsenjalia&theme=tokyonight&hide_border=true"/>
 </p>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omsenjalia&theme=tokyo-night&hide_border=true)](https://github.com/omsenjalia)
 
