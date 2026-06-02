@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -27,18 +27,9 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&show_icons=true&theme=tokyonight&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate pin card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=stats-organization&repo=github-readme-stats
-          path: profile/pin-stats-organization-github-readme-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
