@@ -31,7 +31,7 @@
 
 </div>
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -45,11 +45,11 @@
 </p>
 </div>
 
----
+
 
 <div align="center">
 
-[![Stats Banner](https://capsule-render.vercel.app/api?type=venom&height=180&text=GitHub%20Stats&fontSize=40&color=gradient&customColorList=12,14,20&fontColor=ffffff&animation=twinkling)](https://github.com/omsenjalia)
+[![Stats Banner](https://capsule-render.vercel.app/api?type=shark&height=180&color=gradient&customColorList=12,14,20&fontColor=ffffff&animation=twinkling)](https://github.com/omsenjalia)
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
