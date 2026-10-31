@@ -18,8 +18,8 @@
 
 ## 👨‍💻 About Me
 
-- 🔧 Maintainer at **[is-a.dev](https://github.com/is-a-dev)** — free subdomain service used by thousands of devs worldwide
-- 🐧 Daily driving **Linux + Windows**, currently exploring **NixOS**
+- 🔧 Retired-Maintainer at **[is-a.dev](https://github.com/is-a-dev)** — free subdomain service used by thousands of devs worldwide
+- 🐧 Daily driving **Linux + Windows**, currently exploring **NixOS and Arch Linux**
 - 🐳 Building with **Docker**, **CI/CD**, and self-hosted infra
 - 💻 Currently learning **C** language
 - 💬 Ask me about **DNS, open source, or Linux**
