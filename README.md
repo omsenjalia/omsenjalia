@@ -17,10 +17,10 @@
 
 <img src="assets/header-random.svg" width="100%" alt="Random picks">
 
-<a href="https://github.com/omsenjalia/web"><img src="assets/random-1.svg" width="49%" alt="web"></a>
-<a href="https://github.com/omsenjalia/portrait-notes-book"><img src="assets/random-2.svg" width="49%" alt="portrait-notes-book"></a>
-<a href="https://github.com/omsenjalia/portfolio-cf"><img src="assets/random-3.svg" width="49%" alt="portfolio-cf"></a>
-<a href="https://github.com/omsenjalia/config"><img src="assets/random-4.svg" width="49%" alt="config"></a>
+<a href="https://github.com/omsenjalia/hackpreneur"><img src="assets/random-1.svg" width="49%" alt="hackpreneur"></a>
+<a href="https://github.com/omsenjalia/skywave-remake"><img src="assets/random-2.svg" width="49%" alt="skywave-remake"></a>
+<a href="https://github.com/omsenjalia/debain-openclaw"><img src="assets/random-3.svg" width="49%" alt="debain-openclaw"></a>
+<a href="https://github.com/omsenjalia/keyblur"><img src="assets/random-4.svg" width="49%" alt="keyblur"></a>
 
 <img src="assets/metro.svg" width="100%" alt="Commit metro">
 
