@@ -17,10 +17,10 @@
 
 <img src="assets/header-random.svg" width="100%" alt="Random picks">
 
-<a href="https://github.com/omsenjalia/astro-web"><img src="assets/random-1.svg" width="49%" alt="astro-web"></a>
-<a href="https://github.com/omsenjalia/hackpreneur"><img src="assets/random-2.svg" width="49%" alt="hackpreneur"></a>
-<a href="https://github.com/omsenjalia/ChatGPT-Discord"><img src="assets/random-3.svg" width="49%" alt="ChatGPT-Discord"></a>
-<a href="https://github.com/omsenjalia/dotfiles-1"><img src="assets/random-4.svg" width="49%" alt="dotfiles-1"></a>
+<a href="https://github.com/omsenjalia/repobuddy"><img src="assets/random-1.svg" width="49%" alt="repobuddy"></a>
+<a href="https://github.com/omsenjalia/docker-debain"><img src="assets/random-2.svg" width="49%" alt="docker-debain"></a>
+<a href="https://github.com/omsenjalia/hackpreneur"><img src="assets/random-3.svg" width="49%" alt="hackpreneur"></a>
+<a href="https://github.com/omsenjalia/portrait-notes-book"><img src="assets/random-4.svg" width="49%" alt="portrait-notes-book"></a>
 
 <img src="assets/metro.svg" width="100%" alt="Commit metro">
 
